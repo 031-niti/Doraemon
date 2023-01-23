@@ -16,7 +16,7 @@ public class inputData {
         System.out.println("Doraemon : OK. How many years do you want to travel?");
         System.out.println("Niti : I want to go for : ");
         int years = in.nextInt();
-        System.out.println("Niti : It is : " +years);
+        System.out.println("Niti : I want to go for : " +years);
         System.out.println("Doraemon : OK. Lets gooooooo!");
         System.out.println(".....");
         System.out.println(".....");
